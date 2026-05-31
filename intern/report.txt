@@ -1,0 +1,11 @@
+VULNERABILITY SCAN REPORT
+========================================
+Target: scanme.nmap.org
+Scan Time: 2026-05-24 12:48:27.105947
+
+Open Ports:
+Port 22 OPEN
+Port 80 OPEN
+
+Possible Vulnerabilities:
+- HTTP Service Running
