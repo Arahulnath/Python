@@ -26,5 +26,6 @@ def mergesort(arr):
              fp +=1
          return arr
 arr = [3 , 5, 6, 1, 2]
+print(arr)
 mergesort(arr)
 print(arr)
