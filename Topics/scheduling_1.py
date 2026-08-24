@@ -1,10 +1,8 @@
 # Scheduling are used to schedule the job according to the particular time .
 # It requires a loop , to continuouly chack the time for print .
 # schedule.run_pending() is common thing in the scheduling .
-
 import schedule
 import time
-from datetime import datetime
 """def job():
     print("Job is running")
 while True:

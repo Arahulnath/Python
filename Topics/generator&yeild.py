@@ -14,4 +14,4 @@ def numbeers(n):
 
 for i in numbeers(10):
    print(i)
-# for yield keyword we must itereate the value using for loop
+# for yield keyword we must iterate the value using for loop
