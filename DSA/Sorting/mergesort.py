@@ -18,7 +18,7 @@ def mergesort(arr):
              fp+=1
          while lp < len(left) :
              arr[fp] = left[lp]
-             fp +=1
+             fp +=1 
              lp += 1
          while rp < len(right) :
              arr[fp] = right[rp]
